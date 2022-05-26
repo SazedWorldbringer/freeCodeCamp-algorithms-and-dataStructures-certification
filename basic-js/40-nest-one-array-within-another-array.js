@@ -1,0 +1,2 @@
+// Only change code below this line
+const myArray = [["Life before death, Strength before weakness, Journey before destination", "What do you think is the most important step? The first one? No. The next step, Dalinar. Always the next."], ["There's always another secret", "The best liars are ones who tell truth most of the time"]];
